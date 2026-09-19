@@ -4,7 +4,7 @@
 
 ## เริ่มเขียน
 
-1. อ่าน `canon/INDEX.md` เพื่อค้นหา Canon ที่เกี่ยวข้อง
+1. อ่าน [World Setting](canon/world/world-setting.md) และ `canon/INDEX.md` เพื่อค้นหา Canon ที่เกี่ยวข้อง
 2. อ่าน `story/arcs/arc-01/outline.md` สำหรับ Arc ปัจจุบัน
 3. คัดลอก `templates/chapter.md` ไปไว้ใน `manuscript/` เมื่อเริ่มบทใหม่
 4. ตรวจ `canon/timeline/master-timeline.md` และ `notes/continuity.md` ก่อนแก้เหตุการณ์สำคัญ
@@ -27,6 +27,8 @@ sources/      สำเนาแหล่งข้อมูลและประ
 ```
 
 > เมื่อข้อมูลซ้ำกัน ให้ยึดลำดับความสำคัญใน `AGENTS.md` และแจ้งผู้เขียนหากพบความขัดแย้ง
+
+ไฟล์ `world/setting.md` เป็นสำเนาสำหรับลิงก์เดิม ส่วนแหล่งข้อมูลหลักที่ต้องแก้ไขคือ `canon/world/world-setting.md`
 
 ## รูปแบบชื่อไฟล์
 

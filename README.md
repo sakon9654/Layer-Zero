@@ -5,17 +5,17 @@
 ## เริ่มเขียน
 
 1. อ่าน [World Setting](canon/world/world-setting.md) และ `canon/INDEX.md` เพื่อค้นหา Canon ที่เกี่ยวข้อง
-2. อ่าน `story/arcs/arc-01/outline.md` สำหรับ Arc ปัจจุบัน
-3. คัดลอก `templates/chapter.md` ไปไว้ใน `manuscript/` เมื่อเริ่มบทใหม่
+2. เปิด [ARC 01 — กะดึก](story/arcs/arc-01/README.md) เพื่ออ่านโครงเรื่อง ต้นฉบับ และข้อมูลประกอบ Arc ในที่เดียว
+3. คัดลอก `templates/chapter.md` ไปไว้ใน `story/arcs/arc-01/chapters/` เมื่อเริ่มบทใหม่ของ Arc 01
 4. ตรวจ `canon/timeline/master-timeline.md` และ `notes/continuity.md` ก่อนแก้เหตุการณ์สำคัญ
 5. บันทึกข้อเท็จจริงใหม่เป็นข้อเสนอจนกว่าผู้เขียนจะอนุมัติเป็น Canon
 
 ## โครงสร้าง
 
 ```text
-manuscript/   ต้นฉบับที่เรียงตามลำดับการอ่าน
+manuscript/   พื้นที่ต้นฉบับนอก Arc หรือสำหรับรวบรวมภายหลัง (ไม่ทำสำเนาซ้ำของ Arc 01)
 canon/        ข้อเท็จจริงหลักและความลับสำหรับผู้เขียน
-story/        โครงเรื่องและ Arc ที่กำลังพัฒนา
+story/        โครงเรื่องและ Arc ที่กำลังพัฒนา รวมถึงต้นฉบับแยกตาม Arc
 planning/     premise, outline และ timeline
 characters/   ประวัติ เป้าหมาย และพัฒนาการของตัวละคร
 world/        กฎของโลก สถานที่ และคำศัพท์เฉพาะ

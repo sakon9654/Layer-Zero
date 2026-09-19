@@ -44,3 +44,10 @@ Never silently resolve a Canon conflict. Report the conflicting files and ask th
 
 Characters must retain established personalities, knowledge, motivations, and limitations. Do not reveal hidden information prematurely.
 
+
+## Arc organization — mandatory for all future Arcs
+
+- Follow [story/arcs/WORKFLOW.md](story/arcs/WORKFLOW.md) for Arc folder structure, chapter storage, indexes, naming, statuses, and before/after writing checks.
+- Every Arc has `story/arcs/arc-NN/README.md` as its entry point and `chapters/` as its single source of manuscript files. Use `templates/arc-readme.md` when starting an Arc.
+- Update the Arc README when adding or revising chapters, and update `story/arcs/README.md` when creating an Arc.
+- These organization rules do not change the Canon priority or authorize changes to established Canon.

@@ -32,6 +32,8 @@
 ## Current Story Arc
 
 - [Arc 01 — กะดึก](../story/arcs/arc-01/outline.md) — `draft-outline`
+- [Arc 01 — Entity & Object Dossier](../story/arcs/arc-01/entity-object-dossier.md) — `proposed-arc-canon`
+- [รายงานตรวจสอบรหัสและ Canon](../story/arcs/arc-01/dossier-validation.md)
 
 ## Supporting records
 

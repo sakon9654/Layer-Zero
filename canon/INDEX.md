@@ -11,6 +11,7 @@
 ## World
 
 - [World Setting](world/world-setting.md) — Layer Zero, The Deep, Deviation และกฎหลักของจักรวาล
+- [Resonant (ผู้สอดคล้อง)](world/resonant.md) — ระบบความเข้ากันได้ระหว่างมนุษย์กับ Object หรือ Entity
 
 ## Organizations
 
@@ -26,6 +27,7 @@
 
 - [ความจริงเบื้องหลังนนท์](hidden/non-author-only.md)
 - [ข้อมูลนนท์ฉบับเต็มสำหรับผู้เขียน](hidden/non-complete-reference.md) — เอกสารรวมฉบับล่าสุด หากขัดกับโปรไฟล์ทั่วไป ให้แจ้งผู้เขียนก่อนแก้
+- [Resonance และ The Veil](hidden/resonance-and-the-veil.md) — ความสัมพันธ์ระดับผู้เขียนระหว่าง Resonant, Unfiltered และ The Veil
 
 ## Current Story Arc
 
@@ -36,4 +38,3 @@
 - [Master timeline](timeline/master-timeline.md)
 - [Continuity notes](../notes/continuity.md)
 - [Imported ChatGPT sources](../sources/chatgpt/README.md)
-

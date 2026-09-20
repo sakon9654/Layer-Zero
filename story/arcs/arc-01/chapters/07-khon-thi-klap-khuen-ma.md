@@ -1,7 +1,7 @@
 ---
 chapter: 7
 title: คนที่กลับขึ้นมา
-status: draft
+status: approved
 pov: บุคคลที่สาม จำกัดมุมมองนนท์
 timeline: ARC 01 — กะดึก, 07:52–09:18 น.
 ---

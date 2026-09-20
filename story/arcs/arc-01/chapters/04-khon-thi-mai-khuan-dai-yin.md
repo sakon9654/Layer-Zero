@@ -1,7 +1,7 @@
 ---
 chapter: 4
 title: คนที่ไม่ควรได้ยิน
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 04:35–05:19 น.
 ---

@@ -1,7 +1,7 @@
 ---
 chapter: 9
 title: สามบาทสุดท้าย
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 11:32–15:39 น.
 ---

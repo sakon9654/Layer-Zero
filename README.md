@@ -5,7 +5,7 @@
 ## เริ่มเขียน
 
 1. อ่าน [World Setting](canon/world/world-setting.md) และ `canon/INDEX.md` เพื่อค้นหา Canon ที่เกี่ยวข้อง
-2. เปิด [สารบัญ Story Arcs](story/arcs/README.md) และ [ARC 01 — กะดึก](story/arcs/arc-01/README.md) เพื่ออ่านโครงเรื่อง ต้นฉบับ และข้อมูลประกอบ Arc ในที่เดียว
+2. เปิด [สารบัญ Story Arcs](story/arcs/README.md) และ [ARC 02 — จดหมายแจ้งตาย](story/arcs/arc-02/README.md) สำหรับงานเขียนปัจจุบัน; [ARC 01 — กะดึก](story/arcs/arc-01/README.md) จบแล้วและตอน 1–12 อนุมัติแล้ว
 3. อ่าน [กฎการทำงานกับทุก Arc](story/arcs/WORKFLOW.md); คัดลอก `templates/chapter.md` ไปไว้ใน `story/arcs/arc-NN/chapters/` เมื่อเริ่มบทใหม่
 4. ตรวจ `canon/timeline/master-timeline.md` และ `notes/continuity.md` ก่อนแก้เหตุการณ์สำคัญ
 5. บันทึกข้อเท็จจริงใหม่เป็นข้อเสนอจนกว่าผู้เขียนจะอนุมัติเป็น Canon

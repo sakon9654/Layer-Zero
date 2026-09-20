@@ -1,7 +1,7 @@
 ---
 chapter: 2
 title: อย่าหันไป
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 03:08–03:34 น.
 ---

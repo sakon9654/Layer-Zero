@@ -1,7 +1,7 @@
 ---
 chapter: 10
 title: พิธีการส่งกลับ
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 15:40–18:58 น.
 ---

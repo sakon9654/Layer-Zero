@@ -1,7 +1,7 @@
 ---
 chapter: 11
 title: ครั้งที่สามสิบแปด
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 19:06–03:17 น. (ข้ามวัน)
 ---

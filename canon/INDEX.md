@@ -31,11 +31,16 @@
 
 ## Current Story Arc
 
-- [Arc 01 — กะดึก](../story/arcs/arc-01/outline.md) — `draft-outline`
+- [Arc 01 — กะดึก](../story/arcs/arc-01/README.md) — ตอน 1–12 `approved`; outline เดิมยังเป็นเอกสารวางแผน
 - [Arc 01 — Entity & Object Dossier](../story/arcs/arc-01/entity-object-dossier.md) — `proposed-arc-canon`
 - [รายงานตรวจสอบรหัสและ Canon](../story/arcs/arc-01/dossier-validation.md)
-- [สรุปคดี ARC 01 และข้อมูลส่งต่อ](../story/arcs/arc-01/case-summary.md) — `draft-story-reference` อิงตอน 1–12
-- [ทะเบียนตัวละครหลัง ARC 01](../story/arcs/arc-01/character-status.md) — `draft-story-reference`
+- [สรุปคดี ARC 01 และข้อมูลส่งต่อ](../story/arcs/arc-01/case-summary.md) — `story-reference` อิงตอน 1–12 ที่อนุมัติแล้ว
+- [ทะเบียนตัวละครหลัง ARC 01](../story/arcs/arc-01/character-status.md) — `story-reference`
+
+- [Arc 02 — จดหมายแจ้งตาย](../story/arcs/arc-02/README.md) — Arc ปัจจุบัน, `draft-outline`
+- [Arc 02 — โครงเรื่อง](../story/arcs/arc-02/outline.md)
+- [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
+- [Arc 02 — Dossier Validation](../story/arcs/arc-02/dossier-validation.md)
 
 ## Supporting records
 

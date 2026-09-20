@@ -1,7 +1,7 @@
 ---
 chapter: 3
 title: ครั้งที่สามสิบเจ็ด
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 03:35–หลัง 04:31 น.
 ---

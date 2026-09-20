@@ -1,7 +1,7 @@
 ---
 chapter: 8
 title: รายงานที่ไม่มีหน้าสุดท้าย
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 09:18–11:31 น.
 ---

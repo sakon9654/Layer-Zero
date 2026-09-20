@@ -1,0 +1,38 @@
+# ARC 02 — จดหมายแจ้งตาย
+
+> Arc ใหม่กำลังวางแผน; ชื่อและรายละเอียดคดีเป็น **ข้อเสนอ**. ยึด [กฎการทำงานร่วมกัน](../WORKFLOW.md).
+
+## อ่านตามลำดับ
+
+1. [โครงเรื่อง ARC 02](outline.md) — จังหวะคดีใหม่และโครง 12 ตอน (สถานะ `draft-outline`)
+
+**ยังไม่มีต้นฉบับตอนที่ 1** — จะเพิ่มลิงก์เมื่อเขียนและบันทึกไฟล์จริงใน `chapters/`; ไม่สร้างลิงก์ไปยังตอนที่ยังไม่มี.
+
+## ข้อมูลประกอบ Arc
+
+- [Entity & Object Dossier](entity-object-dossier.md) — ความผิดปกติหลัก Object และ Entity ที่เสนอใช้ (`proposed-arc-canon`)
+- [Dossier Validation](dossier-validation.md) — สถานะรหัส/ข้อควรตรวจ
+- [สรุปคดี ARC 01](../arc-01/case-summary.md) — ข้อมูลส่งต่อจากตอนที่อนุมัติแล้ว
+- [ทะเบียนตัวละครหลัง ARC 01](../arc-01/character-status.md)
+
+## Canon ที่เกี่ยวข้อง
+
+- [Canon Index](../../../canon/INDEX.md)
+- [World Setting](../../../canon/world/world-setting.md)
+- [Resonant](../../../canon/world/resonant.md)
+- [สำนักงาน](../../../canon/organizations/the-office.md)
+- [นนท์](../../../canon/characters/non.md)
+- [Master Timeline](../../../canon/timeline/master-timeline.md)
+- [Continuity Notes](../../../notes/continuity.md)
+
+## ปมและข้อควรระวัง
+
+- นนท์ยังไม่ใช่เจ้าหน้าที่สำนักงาน; การเข้าร่วมคดีต้องมีการตัดสินใจในเรื่อง.
+- คดีร้านสะดวกซื้อปิดเขตชั่วคราว แต่ชายเสื้อเทาปรากฏครั้งที่ 38 และตัวตนผู้กลับยังไม่ยืนยัน.
+- ห้ามใช้ข้อมูลใน `canon/hidden/` เป็นความรู้ของตัวละครหรือเฉลยก่อนกำหนด.
+- อย่ารวม Unfiltered กับ Resonant; ความเข้ากันได้กับ Object ต้องตรวจรายชิ้น.
+- ห้ามถือว่า dossier ของ ARC 01 ทุกข้อเกิดขึ้นจริง เพียงเพราะตอน 1–12 ได้รับอนุมัติ.
+
+## แนวทางจัดเก็บ
+
+ต้นฉบับ Arc นี้อยู่ใน `chapters/` เท่านั้น ใช้ `01-chapter-title.md` เป็นต้นไป; เพิ่มลิงก์และสถานะใน README เมื่อมีไฟล์จริง. ไม่ทำสำเนาต้นฉบับคู่ขนาน.

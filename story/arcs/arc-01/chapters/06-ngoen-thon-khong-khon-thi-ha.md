@@ -1,7 +1,7 @@
 ---
 chapter: 6
 title: เงินทอนของคนที่ห้า
-status: draft
+status: approved
 pov: บุคคลที่สาม จำกัดมุมมองนนท์
 timeline: ARC 01 — กะดึก, 06:55–07:52 น.
 ---

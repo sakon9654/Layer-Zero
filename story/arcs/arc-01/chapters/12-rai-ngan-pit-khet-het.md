@@ -1,7 +1,7 @@
 ---
 chapter: 12
 title: รายงานปิดเขตเหตุ
-status: draft
+status: approved
 pov: เอกสารสำนักงาน
 timeline: ARC 01 — หลังการปรากฏครั้งที่ 38
 ---

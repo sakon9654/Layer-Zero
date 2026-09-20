@@ -34,6 +34,8 @@
 - [Arc 01 — กะดึก](../story/arcs/arc-01/outline.md) — `draft-outline`
 - [Arc 01 — Entity & Object Dossier](../story/arcs/arc-01/entity-object-dossier.md) — `proposed-arc-canon`
 - [รายงานตรวจสอบรหัสและ Canon](../story/arcs/arc-01/dossier-validation.md)
+- [สรุปคดี ARC 01 และข้อมูลส่งต่อ](../story/arcs/arc-01/case-summary.md) — `draft-story-reference` อิงตอน 1–12
+- [ทะเบียนตัวละครหลัง ARC 01](../story/arcs/arc-01/character-status.md) — `draft-story-reference`
 
 ## Supporting records
 

@@ -1,12 +1,12 @@
 ---
-status: draft-story-reference
+status: story-reference
 arc: 01
-sources: chapters 01–12 (draft)
+sources: chapters 01–12 (approved)
 ---
 
 # ARC 01 — ทะเบียนตัวละครและสถานะส่งต่อ
 
-> ไม่ใช่การยืนยันตัวตนย้อนหลังหรือการเลื่อนเป็น established Canon. ดู [สรุปคดี](case-summary.md).
+> อิงตอนที่อนุมัติแล้ว แต่ไม่ใช่การยืนยันตัวตนย้อนหลังหรือการอนุมัติข้อเสนอที่ไม่ได้ปรากฏในเรื่อง. ดู [สรุปคดี](case-summary.md).
 
 | บุคคล | บทบาทใน Arc | สถานะปลาย Arc / สิ่งที่ต้องรักษา |
 |---|---|---|

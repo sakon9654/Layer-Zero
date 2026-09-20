@@ -1,7 +1,7 @@
 ---
 chapter: 1
 title: ลูกค้าคนเดิม
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 02:43–03:08 น.
 ---

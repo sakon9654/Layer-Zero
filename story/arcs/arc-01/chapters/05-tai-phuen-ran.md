@@ -1,7 +1,7 @@
 ---
 chapter: 5
 title: ใต้พื้นร้าน
-status: draft
+status: approved
 pov: นนท์ — บุคคลที่สามแบบจำกัดการรับรู้
 timeline: ARC 01 — กะดึก, 05:19–06:55 น.
 ---

@@ -1,7 +1,7 @@
 ---
 chapter: 2
 title: ปุ่มที่เพิ่มมา
-status: draft
+status: approved
 pov: นนท์ / ริน
 timeline: 24 ตุลาคม 2569, 07.18–17.36 น.
 ---

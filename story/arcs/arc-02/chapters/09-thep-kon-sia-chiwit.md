@@ -1,7 +1,7 @@
 ---
 chapter: 09
 title: เทปก่อนเสียชีวิต
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 27–28 กันยายน 2569
 ---

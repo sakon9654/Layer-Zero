@@ -1,7 +1,7 @@
 ---
 chapter: 08
 title: คนที่ยังหายใจ
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 ---
 

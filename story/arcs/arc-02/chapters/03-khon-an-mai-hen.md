@@ -1,7 +1,7 @@
 ---
 chapter: 03
 title: คนอ่านไม่เห็น
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: วันถัดจาก ARC 02 ตอน 02; 22 กันยายน 2569
 ---

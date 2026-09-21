@@ -1,12 +1,12 @@
 ---
 status: established-canon
 scope: ARC 02 observed objects and evidence continuity
-basis: author request to update important canon; ARC 02 draft chapters 01–13
+basis: author request to update important canon; ARC 02 approved chapters 01–14
 ---
 
 # ARC 02 — วัตถุและหลักฐานสำคัญ
 
-> รายการนี้บันทึก **หลักฐานที่ปรากฏจริงในร่างและสถานะที่ผู้เขียนขอให้คงเป็น canon continuity** ไม่ใช่คำยืนยันว่าทุกชิ้นเป็น Object อิสระ ห้ามออกเลข O ใหม่โดยพลการ
+> รายการนี้บันทึก **หลักฐานที่ปรากฏจริงในตอนที่ผู้เขียนอนุมัติ และสถานะที่ต้องรักษาเป็น canon continuity** ไม่ใช่คำยืนยันว่าทุกชิ้นเป็น Object อิสระ ห้ามออกเลข O ใหม่โดยพลการ
 
 ## Object ที่มีรหัสอยู่ก่อน
 

@@ -1,7 +1,7 @@
 ---
 chapter: 12
 title: ผู้ส่งที่ไม่มีที่อยู่
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 30 กันยายน – 1 ตุลาคม 2569
 ---

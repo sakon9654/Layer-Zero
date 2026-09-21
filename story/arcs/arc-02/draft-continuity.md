@@ -1,12 +1,12 @@
 ---
 status: draft-only
 arc: 02
-scope: chapters 01–14
+scope: chapters 01–13 draft; chapter 14 approved
 ---
 
 # ARC 02 — Draft Continuity / ลำดับเหตุการณ์
 
-> สำหรับเขียนต่อจากตอนร่างเท่านั้น ไม่ใช่ `established-canon`; ตรวจต้นฉบับแต่ละตอนก่อนแก้รายละเอียด และย้ายเข้าสู่ master timeline เฉพาะเมื่อผู้เขียนอนุมัติ
+> บันทึกส่งต่อสำหรับการเขียน: ตอน 01–13 ยังเป็น `draft`; ตอน 14 ผู้เขียนอนุมัติเป็น `approved` แล้ว; ข้อมูลหลักฐานที่สังเกตในคดีซึ่งผู้เขียนสั่งบันทึกเป็น Canon continuity อยู่ใน `canon/` และ master timeline. อย่าเลื่อนตอน 01–13 เป็น approved ตามตอนสุดท้ายโดยอัตโนมัติ.
 
 | ช่วง/ตอน | เหตุการณ์ในร่าง | ข้อจำกัดความรู้ |
 |---|---|---|
@@ -30,7 +30,7 @@ scope: chapters 01–14
 
 ## สถานะส่งต่อหลังจบคดีจดหมายแจ้งตาย
 
-- ตอน 01–14 ยังเป็น `draft` แต่ผู้เขียนได้ขอจัดเก็บข้อมูลสำคัญเป็น canon continuity แยกที่ `canon/characters/office-team.md`, `canon/characters/hospital-case-people.md`, `canon/characters/arc-02-case-characters.md`, `canon/objects/arc-02-evidence.md`, `canon/entities/arc-02-encounter.md`, `canon/locations/arc-02-hospital-document-route.md`.
+- ตอน 01–13 ยังเป็น `draft` และตอน 14 เป็น `approved` ตามคำสั่งผู้เขียน; ผู้เขียนได้ขอจัดเก็บข้อมูลสำคัญเป็น canon continuity แยกที่ `canon/characters/office-team.md`, `canon/characters/hospital-case-people.md`, `canon/characters/arc-02-case-characters.md`, `canon/objects/arc-02-evidence.md`, `canon/entities/arc-02-encounter.md`, `canon/locations/arc-02-hospital-document-route.md`.
 - ผู้ช่วยนนท์หมดขอบเขตสัญญาสำหรับปฏิบัติการนี้แล้ว มีโอกาสรับข้อเสนอใหม่เฉพาะงาน และยังต้องการสมุดจริงคืน.
 - ประตู/ห้องรับส่งเอกสารโรงพยาบาลยังถูกควบคุม; ซองน้ำตาล 041 / ซองขาวในถุง / ซองขาวในสำนักงานยังต้องระบุแยก; เงาที่สองยังไม่จัดรหัส E ใหม่.
 - คดีร้านสะดวกซื้อมีปมคนที่ห้าที่ยังไม่เฉลย; ไม่มีคำรับรองสองคดีเป็นเหตุเดียวกัน.

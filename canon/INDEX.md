@@ -54,6 +54,9 @@
 - [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
 - [Arc 02 — Dossier Validation](../story/arcs/arc-02/dossier-validation.md)
 
+- [Arc 03 — ชั้นที่ไม่มีอยู่จริง](../story/arcs/arc-03/README.md) — ทิศทางที่ผู้เขียนเลือก; ยังเป็น `draft-outline` ไม่ใช่ canon ของเหตุการณ์ใหม่
+- [Arc 03 — โครงเรื่อง](../story/arcs/arc-03/outline.md) — คดีอาคาร 17 ชั้นและชั้นที่ 18 (ข้อเสนอสำหรับเขียน)
+
 ## Supporting records
 
 - [Master timeline](timeline/master-timeline.md)

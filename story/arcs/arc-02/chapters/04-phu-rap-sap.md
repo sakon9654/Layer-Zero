@@ -1,7 +1,7 @@
 ---
 chapter: 04
 title: ผู้รับทราบ
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 23 กันยายน 2569
 ---

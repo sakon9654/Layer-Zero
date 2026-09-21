@@ -25,7 +25,7 @@
 
 ## ARC 02 — ข้อมูลสำคัญที่ผู้เขียนสั่งบันทึกเป็น Canon continuity
 
-> อนุมัติข้อมูลตัวละคร/สิ่งของ/การพบตัวตน/สถานที่ที่สังเกตใน ARC 02 ตอน 01–14 เป็นฐานความต่อเนื่อง โดยตอน 01–13 ยังเป็น `draft` และตอน 14 เป็น `approved`; ไม่เลื่อนคำกล่าวหรือสมมติฐานเป็นกลไกที่พิสูจน์แล้ว.
+> อนุมัติข้อมูลตัวละคร/สิ่งของ/การพบตัวตน/สถานที่ที่สังเกตใน ARC 02 ตอน 01–14 เป็นฐานความต่อเนื่อง โดยตอน 01–14 เป็น `approved` ทั้งหมด; ไม่เลื่อนคำกล่าวหรือสมมติฐานเป็นกลไกที่พิสูจน์แล้ว.
 
 - [ทะเบียนตัวละคร ARC 02](characters/arc-02-case-characters.md)
 - [Object และหลักฐาน ARC 02](objects/arc-02-evidence.md)
@@ -48,7 +48,7 @@
 - [สรุปคดี ARC 01 และข้อมูลส่งต่อ](../story/arcs/arc-01/case-summary.md) — `story-reference` อิงตอน 1–12 ที่อนุมัติแล้ว
 - [ทะเบียนตัวละครหลัง ARC 01](../story/arcs/arc-01/character-status.md) — `story-reference`
 
-- [Arc 02 — จดหมายแจ้งตาย](../story/arcs/arc-02/README.md) — Arc ปัจจุบัน, `draft-outline`
+- [Arc 02 — จดหมายแจ้งตาย](../story/arcs/arc-02/README.md) — ตอน 01–14 `approved`; outline เดิมยังเป็นเอกสารวางแผน
 - [Arc 02 — โครงเรื่อง](../story/arcs/arc-02/outline.md)
 - [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
 - [Arc 02 — Dossier Validation](../story/arcs/arc-02/dossier-validation.md)

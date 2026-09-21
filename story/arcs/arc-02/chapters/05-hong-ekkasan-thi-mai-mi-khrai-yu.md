@@ -1,7 +1,7 @@
 ---
 chapter: 05
 title: ห้องเอกสารที่ไม่มีใครอยู่
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 24 กันยายน 2569
 ---

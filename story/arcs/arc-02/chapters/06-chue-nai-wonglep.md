@@ -1,7 +1,7 @@
 ---
 chapter: 06
 title: ชื่อในวงเล็บ
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 ---
 

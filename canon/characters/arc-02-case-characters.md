@@ -1,12 +1,12 @@
 ---
 status: established-canon
 scope: ARC 02 observed character continuity
-basis: author request to update important canon; ARC 02 chapters 01–13 draft and chapter 14 approved
+basis: author request to update important canon; ARC 02 chapters 01–14 approved
 ---
 
 # ARC 02 — ทะเบียนตัวละครสำคัญ
 
-> อนุมัติให้ใช้เป็นข้อมูลความต่อเนื่องของตัวละครตามคำขอผู้เขียน โดย **ไม่เลื่อนสถานะต้นฉบับตอน 01–13 จาก draft เป็น approved (ตอน 14 อนุมัติแล้ว)** และไม่ถือว่าคำพูดบุคคลพิสูจน์กลไก Deviation; ข้อมูลที่ยังพิสูจน์ไม่ได้กำกับไว้ตรงรายการ
+> อนุมัติให้ใช้เป็นข้อมูลความต่อเนื่องของตัวละครตามคำขอผู้เขียน โดยต้นฉบับตอน 01–14 ได้รับอนุมัติ (`approved`) ทั้งหมดแล้ว และไม่ถือว่าคำพูดบุคคลพิสูจน์กลไก Deviation; ข้อมูลที่ยังพิสูจน์ไม่ได้กำกับไว้ตรงรายการ
 
 | ตัวละคร | ข้อมูล/บทบาทที่ใช้เขียนต่อ | สถานะล่าสุด ณ ตอน 14 และข้อห้าม |
 |---|---|---|

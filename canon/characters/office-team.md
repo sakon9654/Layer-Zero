@@ -1,12 +1,12 @@
 ---
 status: established-canon
-scope: continuity of named Office personnel shown in approved ARC 01 and draft ARC 02 chapters 01–14
+scope: continuity of named Office personnel shown in approved ARC 01 and ARC 02 chapters 01–14
 basis: author request to update other character canon
 ---
 
 # ตัวละครสำนักงาน — ริน อธิคม พิม และเอก
 
-> แฟ้มอ้างอิงสำหรับผู้เขียน: บันทึกบทบาทและพฤติกรรมที่ปรากฏในต้นฉบับ ไม่สร้างประวัติ นามสกุล อายุ ตำแหน่งยศ หรือความสามารถใหม่จากการเดา. ต้นฉบับตอน 01–13 ยังคง `draft` ส่วนตอน 14 เป็น `approved` ตามคำสั่งผู้เขียน.
+> แฟ้มอ้างอิงสำหรับผู้เขียน: บันทึกบทบาทและพฤติกรรมที่ปรากฏในต้นฉบับ ไม่สร้างประวัติ นามสกุล อายุ ตำแหน่งยศ หรือความสามารถใหม่จากการเดา. ต้นฉบับตอน 01–14 เป็น `approved` ทั้งหมดตามคำสั่งผู้เขียน.
 
 ## ริน
 

@@ -49,6 +49,7 @@
 - [ทะเบียนตัวละครหลัง ARC 01](../story/arcs/arc-01/character-status.md) — `story-reference`
 
 - [Arc 02 — จดหมายแจ้งตาย](../story/arcs/arc-02/README.md) — ตอน 01–14 `approved`; outline เดิมยังเป็นเอกสารวางแผน
+- [สรุปคดีจดหมายแจ้งตาย / ข้อมูลส่งต่อ ARC 03](../story/arcs/arc-02/case-summary.md) — `story-reference` จากตอน 01–14 `approved`; สถานะหลักฐาน ตัวละคร และปมที่ยังเปิด
 - [Arc 02 — โครงเรื่อง](../story/arcs/arc-02/outline.md)
 - [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
 - [Arc 02 — Dossier Validation](../story/arcs/arc-02/dossier-validation.md)

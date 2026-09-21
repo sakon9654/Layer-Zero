@@ -1,7 +1,7 @@
 ---
 chapter: 14
 title: หนังสือถึงผู้ยังมีชีวิต
-status: draft
+status: approved
 pov: สำนักงาน (สลับนนท์ช่วงท้าย)
 timeline: 2 ตุลาคม 2569
 ---

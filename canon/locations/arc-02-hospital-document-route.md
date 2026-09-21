@@ -1,7 +1,7 @@
 ---
 status: established-canon
 scope: ARC 02 important observed locations
-basis: author request to update important canon; ARC 02 draft chapters 01–13
+basis: author request to update important canon; ARC 02 approved chapters 01–14
 ---
 
 # ARC 02 — สถานที่สำคัญ

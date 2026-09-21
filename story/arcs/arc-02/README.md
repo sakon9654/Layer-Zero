@@ -38,7 +38,7 @@
 
 - [Entity & Object Dossier](entity-object-dossier.md) — ความผิดปกติหลัก Object และ Entity ที่เสนอใช้ (`proposed-arc-canon`)
 - [Dossier Validation](dossier-validation.md) — สถานะรหัส/ข้อควรตรวจ
-- [Draft Continuity / ลำดับเหตุการณ์ ARC 02](draft-continuity.md) — เหตุการณ์ตอน 1–14 และสถานะหลักฐานสำหรับเขียนต่อ (อิงต้นฉบับ `approved`; แยกข้อเท็จจริงออกจากคำกล่าวและสมมติฐาน)
+- [Story Continuity / ลำดับเหตุการณ์ ARC 02](draft-continuity.md) — เหตุการณ์ตอน 1–14 และสถานะหลักฐานสำหรับเขียนต่อ (อิงต้นฉบับ `approved`; แยกข้อเท็จจริงออกจากคำกล่าวและสมมติฐาน)
 - [สรุปคดี ARC 01](../arc-01/case-summary.md) — ข้อมูลส่งต่อจากตอนที่อนุมัติแล้ว
 - [ทะเบียนตัวละครหลัง ARC 01](../arc-01/character-status.md)
 

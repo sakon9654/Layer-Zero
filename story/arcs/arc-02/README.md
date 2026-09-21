@@ -30,13 +30,15 @@
 
 14. [ตอนที่ 13: หนังสือฉบับสุดท้าย](chapters/13-nang-sue-chabap-sut-thai.md) — ทีมช่วยชายที่ระบุว่าตนคือปรเมศวร์ออกมาโดยไม่รับเอกสารหรือเซ็นแทน การส่งมอบในระบบไม่สำเร็จ และซองสำนักงานแสดงข้อความเชื่อมปม ARC 01 (สถานะ `draft`)
 
-ตอนที่ 1–13 เป็นฉบับร่าง รอการตรวจและอนุมัติจากผู้เขียน.
+15. [ตอนที่ 14: หนังสือถึงผู้ยังมีชีวิต](chapters/14-nang-sue-thueng-phu-yang-mi-chiwit.md) — สำนักงานสรุปผลช่วยบุคคลและการควบคุมหลักฐานโดยไม่ประกาศว่าความเสี่ยงสิ้นสุด นนท์ตรวจรายงาน/ค่าตอบแทนและกลับบ้าน ส่วนปมคดีร้านสะดวกซื้อยังเปิดอยู่ (สถานะ `draft`)
+
+ตอนที่ 1–14 เป็นฉบับร่าง รอการตรวจและอนุมัติจากผู้เขียน.
 
 ## ข้อมูลประกอบ Arc
 
 - [Entity & Object Dossier](entity-object-dossier.md) — ความผิดปกติหลัก Object และ Entity ที่เสนอใช้ (`proposed-arc-canon`)
 - [Dossier Validation](dossier-validation.md) — สถานะรหัส/ข้อควรตรวจ
-- [Draft Continuity / ลำดับเหตุการณ์ ARC 02](draft-continuity.md) — เหตุการณ์ตอน 1–13 และสถานะหลักฐานสำหรับเขียนต่อ (สถานะ `draft-only`, ไม่ใช่ Canon ที่อนุมัติ)
+- [Draft Continuity / ลำดับเหตุการณ์ ARC 02](draft-continuity.md) — เหตุการณ์ตอน 1–14 และสถานะหลักฐานสำหรับเขียนต่อ (สถานะ `draft-only`, ไม่ใช่ Canon ที่อนุมัติ)
 - [สรุปคดี ARC 01](../arc-01/case-summary.md) — ข้อมูลส่งต่อจากตอนที่อนุมัติแล้ว
 - [ทะเบียนตัวละครหลัง ARC 01](../arc-01/character-status.md)
 
@@ -48,6 +50,8 @@
 - [สำนักงาน](../../../canon/organizations/the-office.md)
 - [นนท์](../../../canon/characters/non.md)
 - [ทะเบียนตัวละคร ARC 02](../../../canon/characters/arc-02-case-characters.md)
+- [โปรไฟล์ทีมสำนักงาน](../../../canon/characters/office-team.md)
+- [โปรไฟล์ผู้เกี่ยวข้องคดีโรงพยาบาล](../../../canon/characters/hospital-case-people.md)
 - [วัตถุและหลักฐาน ARC 02](../../../canon/objects/arc-02-evidence.md)
 - [ตัวตนที่พบหลังประตู ARC 02](../../../canon/entities/arc-02-encounter.md)
 - [สถานที่สำคัญ ARC 02](../../../canon/locations/arc-02-hospital-document-route.md)

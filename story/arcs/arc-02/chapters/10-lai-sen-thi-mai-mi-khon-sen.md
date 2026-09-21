@@ -1,7 +1,7 @@
 ---
 chapter: 10
 title: ลายเซ็นที่ไม่มีคนเซ็น
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 28–29 กันยายน 2569
 ---

@@ -1,7 +1,7 @@
 ---
 status: established-canon
 scope: ARC 02 observed entity-like encounter
-basis: author request to update important canon; ARC 02 draft chapters 07, 12–13
+basis: author request to update important canon; ARC 02 approved chapters 07, 12–14
 ---
 
 # ARC 02 — ตัวตนที่พบและยังไม่จัดประเภท

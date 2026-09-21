@@ -1,7 +1,7 @@
 ---
 chapter: 13
 title: หนังสือฉบับสุดท้าย
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 1 ตุลาคม 2569
 ---

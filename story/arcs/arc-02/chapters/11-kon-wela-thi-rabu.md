@@ -1,7 +1,7 @@
 ---
 chapter: 11
 title: ก่อนเวลาที่ระบุ
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 29–30 กันยายน 2569
 ---

@@ -1,7 +1,7 @@
 ---
 chapter: 07
 title: ค่าใช้จ่ายของคำตอบ
-status: draft
+status: approved
 pov: นนท์ (สลับมุมมองสำนักงานช่วงท้าย)
 timeline: 25–26 กันยายน 2569
 ---

@@ -47,6 +47,10 @@
 - [Resonant](../../../canon/world/resonant.md)
 - [สำนักงาน](../../../canon/organizations/the-office.md)
 - [นนท์](../../../canon/characters/non.md)
+- [ทะเบียนตัวละคร ARC 02](../../../canon/characters/arc-02-case-characters.md)
+- [วัตถุและหลักฐาน ARC 02](../../../canon/objects/arc-02-evidence.md)
+- [ตัวตนที่พบหลังประตู ARC 02](../../../canon/entities/arc-02-encounter.md)
+- [สถานที่สำคัญ ARC 02](../../../canon/locations/arc-02-hospital-document-route.md)
 - [Master Timeline](../../../canon/timeline/master-timeline.md)
 - [Continuity Notes](../../../notes/continuity.md)
 

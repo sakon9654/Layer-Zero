@@ -36,6 +36,8 @@
 
 ## ข้อมูลประกอบ Arc
 
+- [สรุปคดีจดหมายแจ้งตาย / ข้อมูลส่งต่อสำหรับ ARC 03](case-summary.md) — ภาพรวม 14 ตอน สถานะคน/หลักฐาน ความรู้ตัวละคร ปมที่ยังเปิด และจุดเริ่มสำหรับวางโครงคดีใหม่ (`story-reference`, อิงตอน `approved`)
+
 - [Entity & Object Dossier](entity-object-dossier.md) — ความผิดปกติหลัก Object และ Entity ที่เสนอใช้ (`proposed-arc-canon`)
 - [Dossier Validation](dossier-validation.md) — สถานะรหัส/ข้อควรตรวจ
 - [Story Continuity / ลำดับเหตุการณ์ ARC 02](draft-continuity.md) — เหตุการณ์ตอน 1–14 และสถานะหลักฐานสำหรับเขียนต่อ (อิงต้นฉบับ `approved`; แยกข้อเท็จจริงออกจากคำกล่าวและสมมติฐาน)

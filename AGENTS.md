@@ -44,6 +44,8 @@ Never silently resolve a Canon conflict. Report the conflicting files and ask th
 
 Characters must retain established personalities, knowledge, motivations, and limitations. Do not reveal hidden information prematurely.
 
+For all Office dialogue, narration revisions and future chapters, apply the **author-approved established-canon forms of address and role-based seniority** in [canon/characters/office-team.md](canon/characters/office-team.md). This governs how Non addresses Rin, Pim, Ek and Athikhom; how Office colleagues address the operation lead and approving supervisor; and how technical staff address Rin. Do not infer ages, formal ranks or new appointments from these speech rules. Preserve approved plot events when adjusting old dialogue.
+
 
 ## Arc organization — mandatory for all future Arcs
 

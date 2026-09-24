@@ -1,7 +1,7 @@
 ---
 chapter: 12
 title: วันทำการถัดไป
-status: draft
+status: approved
 pov: นนท์ / ริน / พิม / เอก
 timeline: 30 ตุลาคม 2569, 06.51–20.18 น.
 ---

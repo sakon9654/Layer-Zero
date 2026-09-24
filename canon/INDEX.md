@@ -54,9 +54,10 @@
 - [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
 - [Arc 02 — Dossier Validation](../story/arcs/arc-02/dossier-validation.md)
 
-- [Arc 03 — ชั้นที่ไม่มีอยู่จริง](../story/arcs/arc-03/README.md) — ตอน 01–13 `approved`; ตอนถัดไปยังเป็น `draft-outline`
+- [Arc 03 — ชั้นที่ไม่มีอยู่จริง](../story/arcs/arc-03/README.md) — ตอน 01–14 `approved`; outline เดิมยังเป็นเอกสารวางแผน
 - [Arc 03 — ตอน 01 นัดประชุมชั้นสิบแปด](../story/arcs/arc-03/chapters/01-nat-prachum-chan-sip-paet.md) — ต้นฉบับอนุมัติ 23 ต.ค. 2569
 - [Arc 03 — ตอน 02 ปุ่มที่เพิ่มมา](../story/arcs/arc-03/chapters/02-pum-thi-phoem-ma.md) — ต้นฉบับอนุมัติ 24 ต.ค. 2569
+- [Arc 03 — ตอน 14 จุดก่อนรับรายการ](../story/arcs/arc-03/chapters/14-chut-kon-rap-rai-kan.md) — ต้นฉบับอนุมัติ 1 พ.ย. 2569
 - [Arc 03 — ตอน 13 คนที่ยังไม่พร้อมออก](../story/arcs/arc-03/chapters/13-khon-thi-yang-mai-phrom-ok.md) — ต้นฉบับอนุมัติ 31 ต.ค. 2569
 - [Arc 03 — ตอน 12 วันทำการถัดไป](../story/arcs/arc-03/chapters/12-wan-tham-ngan-thad-pai.md) — ต้นฉบับอนุมัติ 30 ต.ค. 2569
 - [Arc 03 — ตอน 11 ลิฟต์ขาลง](../story/arcs/arc-03/chapters/11-lift-kha-long.md) — ต้นฉบับอนุมัติ 29 ต.ค. 2569

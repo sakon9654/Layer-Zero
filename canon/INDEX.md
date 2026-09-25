@@ -85,3 +85,11 @@
 - [Master timeline](timeline/master-timeline.md)
 - [Continuity notes](../notes/continuity.md)
 - [Imported ChatGPT sources](../sources/chatgpt/README.md)
+
+
+## ARC 04 — โครงสำหรับเขียน
+
+> สถานะ `draft-outline`; ยังไม่ใช่เหตุการณ์ canon จนกว่าตอนจะได้รับอนุมัติ.
+
+- [Arc 04 — ห้ามหยุดวิ่ง](../story/arcs/arc-04/README.md) — คดี Object ในพื้นที่ปิด, โครงเป้าหมาย 11 ตอน
+- [Arc 04 — โครงเรื่อง](../story/arcs/arc-04/outline.md) — Object หลักหนึ่งชิ้น, pursuit/containment, เส้นนนท์–แหวน และการปูทักษะการต่อสู้ของริน

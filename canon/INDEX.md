@@ -54,10 +54,16 @@
 - [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
 - [Arc 02 — Dossier Validation](../story/arcs/arc-02/dossier-validation.md)
 
-- [Arc 03 — ชั้นที่ไม่มีอยู่จริง](../story/arcs/arc-03/README.md) — ตอน 01–14 `approved`; outline เดิมยังเป็นเอกสารวางแผน
+- [Arc 03 — ชั้นที่ไม่มีอยู่จริง](../story/arcs/arc-03/README.md) — ตอน 01–17 `approved`; ARC ปิดแล้ว ส่วน outline เดิมเป็นเอกสารวางแผน
+- [ทะเบียนตัวละคร ARC 03](characters/arc-03-case-characters.md) — นนท์ จิรา นพดล ครอบครัว ผู้กลับมา และทีมสำนักงานหลังจบ ARC
+- [Object / Evidence ARC 03](objects/arc-03-evidence.md) — บัตร 24, 23.41, ผู้เปิดประตู, ฝ่ายประสานงาน และสถานะรายงาน
+- [สถานที่ ARC 03](locations/arc-03-locations.md) — อาคาร 17 ชั้น, บ้านเก่าลาดพร้าว, ที่พักจิรา และจุดประตู 16 พ.ย.
+- [ARC 03 Handoff / บริบทการเขียนต่อ](story-context/arc-03-handoff.md) — สถานะปลาย ARC, ปมเปิด, ข้อห้าม และโทนสำหรับ ARC ถัดไป
 - [Arc 03 — ตอน 01 นัดประชุมชั้นสิบแปด](../story/arcs/arc-03/chapters/01-nat-prachum-chan-sip-paet.md) — ต้นฉบับอนุมัติ 23 ต.ค. 2569
 - [Arc 03 — ตอน 02 ปุ่มที่เพิ่มมา](../story/arcs/arc-03/chapters/02-pum-thi-phoem-ma.md) — ต้นฉบับอนุมัติ 24 ต.ค. 2569
 - [Arc 03 — ตอน 15 แบบประเมินเบื้องต้น](../story/arcs/arc-03/chapters/15-baep-pramoen-bueang-ton.md) — ต้นฉบับอนุมัติ 2 พ.ย. 2569
+- [Arc 03 — ตอน 16 รายงานอาคารสิบเจ็ดชั้น](../story/arcs/arc-03/chapters/16-rai-ngan-akhan-sip-chet-chan.md) — ต้นฉบับอนุมัติ 3 พ.ย. 2569
+- [Arc 03 — ตอน 17 วันแรกที่ยังไม่ใช่เจ้าหน้าที่](../story/arcs/arc-03/chapters/17-wan-raek-thi-yang-mai-chai-chao-na-thi.md) — ต้นฉบับอนุมัติ 12–16 พ.ย. 2569
 - [Arc 03 — ตอน 14 จุดก่อนรับรายการ](../story/arcs/arc-03/chapters/14-chut-kon-rap-rai-kan.md) — ต้นฉบับอนุมัติ 1 พ.ย. 2569
 - [Arc 03 — ตอน 13 คนที่ยังไม่พร้อมออก](../story/arcs/arc-03/chapters/13-khon-thi-yang-mai-phrom-ok.md) — ต้นฉบับอนุมัติ 31 ต.ค. 2569
 - [Arc 03 — ตอน 12 วันทำการถัดไป](../story/arcs/arc-03/chapters/12-wan-tham-ngan-thad-pai.md) — ต้นฉบับอนุมัติ 30 ต.ค. 2569

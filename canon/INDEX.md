@@ -39,6 +39,7 @@
 - [ความจริงเบื้องหลังนนท์](hidden/non-author-only.md)
 - [ข้อมูลนนท์ฉบับเต็มสำหรับผู้เขียน](hidden/non-complete-reference.md) — เอกสารรวมฉบับล่าสุด หากขัดกับโปรไฟล์ทั่วไป ให้แจ้งผู้เขียนก่อนแก้
 - [Resonance และ The Veil](hidden/resonance-and-the-veil.md) — ความสัมพันธ์ระดับผู้เขียนระหว่าง Resonant, Unfiltered และ The Veil
+- [ริน — ประวัติก่อนสำนักงาน](hidden/rin-author-only.md) — อดีตหน่วยตอบสนองเหตุพิเศษ, เหตุ “คนที่ออกมาไม่ครบ”, ที่มาของ combat skill และขอบเขตการเปิดเผย
 
 ## Current Story Arc
 

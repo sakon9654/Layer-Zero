@@ -48,7 +48,7 @@
 - [สรุปคดี ARC 01 และข้อมูลส่งต่อ](../story/arcs/arc-01/case-summary.md) — `story-reference` อิงตอน 1–12 ที่อนุมัติแล้ว
 - [ทะเบียนตัวละครหลัง ARC 01](../story/arcs/arc-01/character-status.md) — `story-reference`
 
-- [Arc 02 — จดหมายแจ้งตาย](../story/arcs/arc-02/README.md) — ตอน 01–14 `approved`; outline เดิมยังเป็นเอกสารวางแผน
+- [Arc 02 — จดหมายแจ้งตาย](../story/arcs/arc-02/README.md) — ตอน 01–15 `approved`; outline เดิมยังเป็นเอกสารวางแผน
 - [สรุปคดีจดหมายแจ้งตาย / ข้อมูลส่งต่อ ARC 03](../story/arcs/arc-02/case-summary.md) — `story-reference` จากตอน 01–14 `approved`; สถานะหลักฐาน ตัวละคร และปมที่ยังเปิด
 - [Arc 02 — โครงเรื่อง](../story/arcs/arc-02/outline.md)
 - [Arc 02 — Entity & Object Dossier](../story/arcs/arc-02/entity-object-dossier.md) — `proposed-arc-canon`
@@ -57,6 +57,7 @@
 - [Arc 03 — ชั้นที่ไม่มีอยู่จริง](../story/arcs/arc-03/README.md) — ตอน 01–14 `approved`; outline เดิมยังเป็นเอกสารวางแผน
 - [Arc 03 — ตอน 01 นัดประชุมชั้นสิบแปด](../story/arcs/arc-03/chapters/01-nat-prachum-chan-sip-paet.md) — ต้นฉบับอนุมัติ 23 ต.ค. 2569
 - [Arc 03 — ตอน 02 ปุ่มที่เพิ่มมา](../story/arcs/arc-03/chapters/02-pum-thi-phoem-ma.md) — ต้นฉบับอนุมัติ 24 ต.ค. 2569
+- [Arc 03 — ตอน 15 แบบประเมินเบื้องต้น](../story/arcs/arc-03/chapters/15-baep-pramoen-bueang-ton.md) — ต้นฉบับอนุมัติ 2 พ.ย. 2569
 - [Arc 03 — ตอน 14 จุดก่อนรับรายการ](../story/arcs/arc-03/chapters/14-chut-kon-rap-rai-kan.md) — ต้นฉบับอนุมัติ 1 พ.ย. 2569
 - [Arc 03 — ตอน 13 คนที่ยังไม่พร้อมออก](../story/arcs/arc-03/chapters/13-khon-thi-yang-mai-phrom-ok.md) — ต้นฉบับอนุมัติ 31 ต.ค. 2569
 - [Arc 03 — ตอน 12 วันทำการถัดไป](../story/arcs/arc-03/chapters/12-wan-tham-ngan-thad-pai.md) — ต้นฉบับอนุมัติ 30 ต.ค. 2569

@@ -5,6 +5,7 @@
 ## เอกสาร
 
 - [โครงเรื่อง ARC 04](outline.md) — contained pursuit / survival horror, Object หลักหนึ่งชิ้น, โครง 11 ตอน
+- [Character / Relationship / Writing Context](context.md) — สถานะตัวละคร ความสัมพันธ์ knowledge boundaries และบริบทสำหรับเขียนแต่ละตอน
 - [Canon Index](../../../canon/INDEX.md)
 - [สถานะส่งต่อจาก ARC 03](../../../canon/story-context/arc-03-handoff.md)
 - [นนท์](../../../canon/characters/non.md)

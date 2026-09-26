@@ -221,7 +221,7 @@ timeline: after ARC 03; exact date not yet fixed
 
 แล้วเขาเห็นกระจกนูนเหนือทางแยก
 
-“ริน”
+“คุณริน”
 
 “อะไร”
 

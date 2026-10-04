@@ -1,7 +1,7 @@
 ---
 chapter: 5
 title: นัดแรก
-status: draft
+status: approved
 pov: นนท์
 timeline: after chapter 04
 ---

@@ -1,10 +1,11 @@
 # ARC 05 — เขตปลอดภัย
 
-> สถานะ: `in progress` — ตอน 01 ได้รับอนุมัติแล้ว
+> สถานะ: `in progress` — ตอน 01–02 ได้รับอนุมัติแล้ว
 
 ## เอกสาร
 
 - [ตอนที่ 01 — ระยะปลอดภัย](chapters/01-raya-plod-phai.md)
+- [ตอนที่ 02 — คนที่อยู่อีกฝั่ง](chapters/02-khon-thi-yu-ik-fang.md)
 - [Canon Index](../../../canon/INDEX.md)
 - [นนท์](../../../canon/characters/non.md)
 - [ทีมสำนักงาน / กฎคำเรียก](../../../canon/characters/office-team.md)
